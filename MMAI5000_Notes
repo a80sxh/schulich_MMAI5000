@@ -8,7 +8,8 @@ Problem
 
 A set of barries to achieve objectives
 
-A process to remove or overcome the barries by perform a sequence of activities
+A process to remove or overcome the barries by perform a sequence of 
+activities
 
 1.Not all problems are well-defined
 2.Not all problems are solveable
@@ -18,3 +19,8 @@ A process to remove or overcome the barries by perform a sequence of activities
 3.A problem solving could be just 1 step
 
 Well Defined + Solvable Problem
+Algorithm
+-A sequence of activities to be processed for getting desired output 
+from given inputs
+Before writing an algorithm → You need to identify inputs available to you
+and the desired output
